@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="KreditechTaskTest" verbose="1" >
+
+    <test name="KreditechTaskTest">
+        <classes>
+            <class name="tests_suite.KreditechTask"/>
+        </classes>
+    </test>
+
+</suite>
