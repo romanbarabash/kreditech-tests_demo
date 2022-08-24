@@ -9,20 +9,6 @@ import org.testng.annotations.Test;
 
 public class KreditechTask extends BaseTestCase {
 
-    /* please, read this comment before get started with the test.
-
-   1. to switch between Chrome / Firefox browser, please, modify testBrowser.properties file,
-   set BROWSER = Chrome OR BROWSER = Firefox to run test within preferable browser
-   2. please, note, used selenium version(2.53.1) is compatible with Firefox 47.0.1
-   and Chrome 59.0, chromedriver 2.31
-   3. please, modify .setProperty method under setup/BaseTest class with correct path for chromedriver 2.31
-   to run test with Chrome browser
-   4. test available for running within testng runner or KreditechTaskTest.xml file
-   5. screenshots are available under kreditech-test-task/screenshots folder after test run
-
-   feel free to reach out me with any questions: skype: roman-barabash ; gmail: romanbarabashofficial@gmail.com
-
-   Thank you for reading. */
 
 
     @Test
