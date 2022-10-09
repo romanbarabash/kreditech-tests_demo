@@ -10,3 +10,5 @@ Please, read this comment before get started with the test.
    5. Screenshots are available under kreditech-test-task/screenshots folder after test run
 
    Thank you for reading. 
+   
+  P.S. This is relevant for 2017
